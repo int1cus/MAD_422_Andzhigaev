@@ -3,3 +3,4 @@
 Репозиторий для сдачи работ по дисциплине "Разработка мобильных приложений" (Mobile App Development -> MAD)
 
 [Задачи 1 - Dart](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Dart)
+[Задачи 1 - Java](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Java)
