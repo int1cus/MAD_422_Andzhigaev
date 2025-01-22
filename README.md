@@ -1,1 +1,3 @@
-# RMP_422_Andzhigaev
+# MAD_422_Andzhigaev
+
+Репозиторий для сдачи выполненных заданий по дисциплине "Разработка мобильных приложений" (Mobile App Development -> MAD)
