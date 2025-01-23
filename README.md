@@ -7,3 +7,5 @@
 - [Задачи 1 - Dart](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Dart)
 
 - [Задачи 2 - Java](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Java)
+
+- [Задачи ООП - Kotlin](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Kotlin)
