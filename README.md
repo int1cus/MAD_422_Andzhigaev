@@ -4,6 +4,6 @@
 
 ## Вводные задачи 16.01.2025
 
-- [Задачи 1 - Dart](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Dart/Tasks_1)
+- [Задачи 1 - Dart](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Dart)
 
-- [Задачи 1 - Java](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Java)
+- [Задачи 2 - Java](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/Java)
