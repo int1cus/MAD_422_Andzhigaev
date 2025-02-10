@@ -15,6 +15,10 @@
 Выбранный язык: Dart
 
 - [Задачи DateTime](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/23012025/Datetime)
+  
+- [Задачи SingletonEnum](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/23012025/Singleton_Enum)
+
+- [Задачи Потоки, Декоратор, Io NiO](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/23012025/Streams%2C%20Decorator%2C%20Io%20NiO)
 
 ## Шифр Цезаря 30.01.2025
 
