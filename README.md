@@ -15,3 +15,7 @@
 Выбранный язык: Dart
 
 - [Задачи DateTime](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/23012025/Datetime)
+
+## Шифр Цезаря 30.01.2025
+
+- [Шифр Цезаря](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/30012025)
