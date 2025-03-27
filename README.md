@@ -24,6 +24,6 @@
 
 - [Шифр Цезаря](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/30012025)
 
-## Остро 13.02.2025
+## Остров 13.02.2025
 
 - [Остров](https://github.com/int1cus/MAD_422_Andzhigaev/tree/main/13022025/Island)
